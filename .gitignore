@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+env/
+.venv/
+*_venv/
+*/venv/
+*/env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# datasets
+data/
+dataset/
+datasets/
+Cat_vs_Dog/
+11_Data_augmentation/Cat_vs_Dog/
+
+# images
+*.jpg
+*.png
+*.jpeg
